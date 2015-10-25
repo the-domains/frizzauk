@@ -1,0 +1,23 @@
+name: frizzauk
+favicon: null
+layout_spectrum: 0.05404640967026353
+typography_spectrum: 0.3495701882056892
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.061905298149213195
+  lightness: 0.7282161125913262
+  saturation: 0.6188989072106779
+  rhythmicContrast: 0.7529085625428706
+purpose: []
