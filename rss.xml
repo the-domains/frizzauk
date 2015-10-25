@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[frizzauk]]></title>
         <description><![CDATA[frizzauk]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frizzauk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 18:58:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 25 Oct 2015 19:31:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frizzauk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Summer Holiday]]></title>
+            <description><![CDATA[<article><h1>Summer Holiday</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bb95906-dbc7-4c4d-85a1-dffd8a15f9db.jpg"></article>]]></description>
+            <link>https://thegrid.ai/frizzauk/summer-holiday/index.html</link>
+            <guid isPermaLink="false">26613951-5646-43ed-8a18-44c443b47fbf</guid>
+            <pubDate>Sun, 25 Oct 2015 19:31:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>A collection of thoughts...</p>]]></description>
-            <link>undefined0e389d6f-b4be-4f5a-a046-5fec29abaacd/index.html</link>
+            <link>https://thegrid.ai/frizzauk/0e389d6f-b4be-4f5a-a046-5fec29abaacd/index.html</link>
             <guid isPermaLink="false">0e389d6f-b4be-4f5a-a046-5fec29abaacd</guid>
             <pubDate>Sun, 25 Oct 2015 18:58:04 GMT</pubDate>
         </item>
